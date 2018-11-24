@@ -6,7 +6,7 @@ My application displays the income and expense including expense % on the screen
 
 # Screenshot of Budgety Application:
 
-https://raw.githubusercontent.com/deepu2010/Budgety-application/master/bUDGETY.JPG
+![Screenshot](https://raw.githubusercontent.com/deepu2010/Budgety-application/master/bUDGETY.JPG)
 
 # Concepts Used:
 1. Javascript ES6
